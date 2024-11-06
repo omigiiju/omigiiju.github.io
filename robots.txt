@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omigiiju.github.io/KmF/sitemap_index.txt
+Sitemap: https://omigiiju.github.io/NDa/sitemap_index.txt
+Sitemap: https://omigiiju.github.io/ZHw/sitemap_index.txt
+Sitemap: https://omigiiju.github.io/lxk/sitemap_index.txt
